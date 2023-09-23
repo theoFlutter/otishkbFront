@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"assets/AssetManifest.bin": "48ddac8a87704107b05841e43b6b8bd5",
 "assets/AssetManifest.json": "8c9e6cd1105288275078db6de43778f0",
-"assets/assets/buildingDefectLetterTemplate.docx": "188bb4f6ac50077626003ea49447ac1d",
+"assets/assets/buildingDefectLetterTemplate.docx": "a4b5af25e3df13f858911df612ded455",
 "assets/assets/images/otis.png": "88ca22e529b7947c0e9804ca37e0b798",
 "assets/assets/letterTemplate.docx": "ce5a1c9d1cc983434c800dad6221c32b",
 "assets/assets/smTemplate.docx": "d38202af3c23c526495af99e7fca73a1",
@@ -30,9 +30,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "48ddac8a87704107b05841e43b6b8bd5
 "icons/Icon-512.png": "b47ac24922fa5d6bd9750d0fb445bd34",
 "icons/Icon-maskable-192.png": "1d50fa8cba97945e2af4c85d97e94ce2",
 "icons/Icon-maskable-512.png": "b47ac24922fa5d6bd9750d0fb445bd34",
-"index.html": "99b6429f7b978edc73591592136e55d9",
-"/": "99b6429f7b978edc73591592136e55d9",
-"main.dart.js": "f0960e70871dcaf183770f653296f1b1",
+"index.html": "38ab3b0503ea51713c3dfc2d6c16eed6",
+"/": "38ab3b0503ea51713c3dfc2d6c16eed6",
+"main.dart.js": "3fc76cbd37825a2b674816f8a7b526a8",
 "manifest.json": "c7dacee83747791bc465bed19cc4e661",
 "version.json": "91ba706518227761636d0bfcaf154424"};
 // The application shell files that are downloaded before a service worker can
