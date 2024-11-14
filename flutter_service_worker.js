@@ -7,7 +7,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "c1944f40e8f91a4b83b19d885140032e
 "assets/AssetManifest.json": "378f4a2835e74f0d2127f6edf3c7835f",
 "assets/assets/buildingDefectLetterTemplate.docx": "c243ddf160ec27b58a7809163d77f45f",
 "assets/assets/images/otis.png": "88ca22e529b7947c0e9804ca37e0b798",
-"assets/assets/letterTemplate.docx": "ce5a1c9d1cc983434c800dad6221c32b",
+"assets/assets/letterTemplate.docx": "b04c319b7a9522a63e1dcf1036a94e4d",
 "assets/assets/smTemplate.docx": "d38202af3c23c526495af99e7fca73a1",
 "assets/assets/unitTemplate.xlsx": "3bb8ce9a1ea22beba4c08d7156e9a706",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
@@ -31,9 +31,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "c1944f40e8f91a4b83b19d885140032e
 "icons/Icon-512.png": "b47ac24922fa5d6bd9750d0fb445bd34",
 "icons/Icon-maskable-192.png": "1d50fa8cba97945e2af4c85d97e94ce2",
 "icons/Icon-maskable-512.png": "b47ac24922fa5d6bd9750d0fb445bd34",
-"index.html": "01137c440f7368e7ce327d37ef01c5cf",
-"/": "01137c440f7368e7ce327d37ef01c5cf",
-"main.dart.js": "8bf9ddf9d7ec35e059d529a913ce4b76",
+"index.html": "b6610208ef49e2f1223264c7787f2227",
+"/": "b6610208ef49e2f1223264c7787f2227",
+"main.dart.js": "3e1bafc29bb08c9a3133882f83cab239",
 "manifest.json": "c7dacee83747791bc465bed19cc4e661",
 "version.json": "91ba706518227761636d0bfcaf154424"};
 // The application shell files that are downloaded before a service worker can
